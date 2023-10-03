@@ -1,4 +1,3 @@
-
 #!/usr/bin/env bash
 ## Installs Nginx with puppet with the following configurations:
 #+    Listens on port 80.
